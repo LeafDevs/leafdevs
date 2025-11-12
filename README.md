@@ -12,7 +12,7 @@
 
 ###
 
-<h2 style="font-size:large;" align="center">My Spotify</h1>
+<h3 align="center">My Spotify</h1>
 
 ###
 
