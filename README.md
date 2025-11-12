@@ -4,7 +4,7 @@
 
 ###
 
-<h1 style="font-size:'46px';" align="center">Hello! I'm Aaron</h1>
+<h1 style="font-size:'64px';" align="center">Hello! I'm Aaron</h1>
 
 ###
 
