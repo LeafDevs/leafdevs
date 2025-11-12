@@ -4,23 +4,23 @@
 
 ###
 
-<h1 align="left">Hello! I'm Aaron</h1>
+<h1 align="center">Hello! I'm Aaron</h1>
 
 ###
 
-<p align="left">I am a Software Engineer based in Pittsburgh PA.</p>
+<p align="center">I am a Software Engineer based in Pittsburgh PA.</p>
 
 ###
 
-<img src="https://spotify-listening-ten.vercel.app/api/embed/now-playing?token=jXySne9vwxvZScetAfG7Foqq-sHcNGIKKgiR7r8AYbo&style=compact" alt="Now Playing" />
+<img align="center" src="https://spotify-listening-ten.vercel.app/api/embed/now-playing?token=jXySne9vwxvZScetAfG7Foqq-sHcNGIKKgiR7r8AYbo&style=compact" alt="Now Playing" />
 
 ###
 
-<h3 align="left">What I Use</h3>
+<h3 align="center">What I Use</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -54,15 +54,11 @@
 
 ###
 
-<h3 align="left"></h3>
-
-###
-
 <h3 align="left">Learning</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
