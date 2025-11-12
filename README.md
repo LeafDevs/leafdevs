@@ -12,7 +12,9 @@
 
 ###
 
-<img align="center" src="https://spotify-listening-ten.vercel.app/api/embed/now-playing?token=jXySne9vwxvZScetAfG7Foqq-sHcNGIKKgiR7r8AYbo&style=compact" alt="Now Playing" />
+<div align="center">
+  <img src="https://spotify-listening-ten.vercel.app/api/embed/now-playing?token=jXySne9vwxvZScetAfG7Foqq-sHcNGIKKgiR7r8AYbo&style=compact" alt="Now Playing" />
+</div>
 
 ###
 
