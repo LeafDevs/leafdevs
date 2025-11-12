@@ -4,7 +4,7 @@
 
 ###
 
-<h1 style="font-size:'64px';" align="center">Hello! I'm Aaron</h1>
+<h1 style="font-size: 64px;" align="center">Hello! I'm Aaron</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p style="font-size:'80px';">My Spotify </p>
+<p style="font-size: 24px;">My Spotify </p>
 
 ###
 
