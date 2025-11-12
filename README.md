@@ -4,17 +4,11 @@
 
 ###
 
-<h1 style="font-size: 64px;" align="center">Hello! I'm Aaron</h1>
+<h1 align="center">Hello! I'm Aaron</h1>
 
 ###
 
 <p align="center">I am a Software Engineer based in Pittsburgh PA.</p>
-
-###
-
-<p style="font-size: 24px;">My Spotify </p>
-
-###
 
 <div align="center">
   <img src="https://spotify-listening-ten.vercel.app/api/embed/now-playing?token=jXySne9vwxvZScetAfG7Foqq-sHcNGIKKgiR7r8AYbo&style=compact" alt="Now Playing" />
