@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">My Spotify</h1>
+## My Spotify
 
 ###
 
