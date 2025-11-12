@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">Learning</h3>
+<h3 align="center">Learning</h3>
 
 ###
 
