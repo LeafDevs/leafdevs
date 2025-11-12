@@ -12,7 +12,7 @@
 
 ###
 
-## My Spotify
+<p style="font-size:'80px';">My Spotify </p>
 
 ###
 
