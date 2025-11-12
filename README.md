@@ -11,11 +11,16 @@
 <p align="center">I am a Software Engineer based in Pittsburgh PA.</p>
 
 ###
+<h3 align="center"></h3>
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leafdevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+
+###
+<h3 align="center"></h3>
 ###
 
 <div align="center">
