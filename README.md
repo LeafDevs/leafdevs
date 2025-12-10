@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I am a Software Engineer based in Pittsburgh PA.</p>
+<p align="center">I am a Software Engineer based in Pittsburgh PA. I Enjoy listening to music, Some of my favorite artists are Kanye West, Sabrina Carpenter, Playboi Carti and DC The Don</p>
 
 ###
 
