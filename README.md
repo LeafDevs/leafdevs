@@ -12,18 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-listening-ten.vercel.app/api/embed/now-playing?token=jXySne9vwxvZScetAfG7Foqq-sHcNGIKKgiR7r8AYbo&style=compact" alt="Now Playing" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-listening-ten.vercel.app/api/embed/recently-played?token=jXySne9vwxvZScetAfG7Foqq-sHcNGIKKgiR7r8AYbo&limit=16&t=58764161" alt="Recently Played" />
-</div>
-
-###
-
 <h3 align="center">What I Use</h3>
 
 ###
